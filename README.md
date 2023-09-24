@@ -11,6 +11,7 @@
 >Arquivo Texto
 
 Name                                 | Questions |
+:----------------------------------- | --------- | 
 EscreverArquivoTexto                 |     1     |
 LerArquivoTexto                      |     2     |
 AdicionarAoArquivoTexto              |     3     |
@@ -25,6 +26,7 @@ ConcatenarArquivoTexto               |     10    |
 >Arquivo Binário
 
 Name                                 | Questions |
+:----------------------------------- | --------- | 
 SerializarPessoa                     |     11    |
 DeserializarPessoa                   |     12    |
 SerializarDeserializarProdutos       |     13    |
@@ -37,6 +39,7 @@ GereciadorFuncionarios               |     17    |
 >Arquivos CSV
 
 Name                                 | Questions |
+:----------------------------------- | --------- | 
 LerArquivoCSV                        |     18    |
 CriarArquivoCSV                      |     19    |
 LerProdutosCSV                       |     20    |
@@ -49,6 +52,7 @@ ExportarVendasCSV                    |     25    |
 >Banco de Dados
 
 Name                                 | Questions |
+:----------------------------------- | --------- | 
 LerArquivoCSV                        |     26    |
 CriarArquivoCSV                      |     27    |
 LerProdutosCSV                       |     28    |
