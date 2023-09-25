@@ -1,6 +1,6 @@
 # Software Development II
 
->Status: On going
+>Status: Finished
 
 ### 1. Objective
 
@@ -53,10 +53,10 @@ ExportarVendasCSV                    |     25    |
 
 Name                                 | Questions |
 :----------------------------------- | --------- | 
-LerArquivoCSV                        |     26    |
-CriarArquivoCSV                      |     27    |
-LerProdutosCSV                       |     28    |
-AdicionarProdutosCSV                 |     29    |
-CopiarArquivoBinario                 |     30    |
-LerPrimeiros100Bytes                 |     31    |
-GereciadorFuncionarios               |     32    |
+ConexaoMariaDB                       |     26    |
+InserirClienteMariaDB                |     27    |
+ConsultarProdutosMariaDB             |     28    |
+AtualizarClienteMariaDB              |     29    |
+ExcluirClienteMariaDB                |     30    |
+ConsultarProdutosPorClienteMariaDB   |     31    |
+TodosasQuestõesDeBancoDeDadosAcima   |     32    |
